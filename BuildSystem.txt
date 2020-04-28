@@ -1,0 +1,6 @@
+Create a Builder Add below code -
+
+{
+  "cmd" : ["dotnet", "build"],
+  "info" : "Building MyS3..."
+}
