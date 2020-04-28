@@ -1,0 +1,7 @@
+Create a Runner Add below code –
+
+{
+  "cmd" : ["dotnet", "run", "$args"],
+  "working_dir": "$file",
+  "info" : "Running MyS3..."
+}
