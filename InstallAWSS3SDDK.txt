@@ -1,0 +1,2 @@
+Run below Commands -
+dotnet add package AWSSDK.S3
