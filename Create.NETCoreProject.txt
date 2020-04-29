@@ -1,0 +1,4 @@
+Run below Commands -
+mkdir MyS3
+cd MyS3
+dotnet new console -lang C#
